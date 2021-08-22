@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "sesh",
+		"DB_PASSWORD": "sesh123",
+		"DB_NAME": "mern",
+		"LOCATION_API_KEY": "pk.574bcaa19a366b80fa21bdf1f618e847",
+		"JWT_KEY": "supersecret_dontshare"
+	}
+}
